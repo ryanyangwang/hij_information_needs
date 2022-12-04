@@ -7,4 +7,4 @@ Authors: [Rachel X. Peng](https://scholar.google.com/citations?user=jnGUDsEAAAAJ
 
 DOI: [10.1177/14604582221142443](https://doi.org/10.1177/14604582221142443)
 
-Citation in APA: Peng, R. X., & Wang, R. Y. (2022). Understanding information needs during COVID-19: A comparison study between an online health community and a Q&A platform. *Health Informatics Journal*, *28*(4), 14604582221142443.
+Citation: Peng, R. X., & Wang, R. Y. (2022). Understanding information needs during COVID-19: A comparison study between an online health community and a Q&A platform. *Health Informatics Journal*, *28*(4), 14604582221142443. https://doi.org/10.1177/14604582221142443
